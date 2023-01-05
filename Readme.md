@@ -1,0 +1,3 @@
+- Using ML based models to detect speaker of an audio file.
+- Feature extraction from audio files using librosa on the prepared dataset.
+- Evaluation of several models and finding the highest accuracy score of approximately 84%.
